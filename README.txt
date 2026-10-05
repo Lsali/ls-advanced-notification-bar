@@ -1,6 +1,5 @@
 === LS Advanced Notification Bar ===
 Contributors: Levent Sali
-Donate link: https://levent-sali.gr
 Tags: notification bar, top bar, alert bar, promo bar, announcement bar
 Requires at least: 5.8
 Tested up to: 6.7
