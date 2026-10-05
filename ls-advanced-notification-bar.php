@@ -14,7 +14,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Advanced Notification Bar
- * Plugin URI:        https://levent-sali.gr
+ * Plugin URI:        https://github.com/Lsali/ls-advanced-notification-bar
  * Description:       Displays a customizable notification bar at the top of your WordPress site with advanced settings
  * Version:           1.0.0
  * Author:            Levent Sali
